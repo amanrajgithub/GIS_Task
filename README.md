@@ -46,7 +46,6 @@ Now run the python code
 
 
 # Note:
-
-# Avoid naming conflicts such as with library/syntax name.
-# Make sure to replace the geojson file with the actual path to your downloaded GeoJSON file
-# Set the start_date and end_date to your desired analysis period. 
+Avoid naming conflicts such as with library/syntax name.
+Make sure to replace the geojson file with the actual path to your downloaded GeoJSON file
+Set the start_date and end_date to your desired analysis period. 
