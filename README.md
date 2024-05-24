@@ -2,7 +2,7 @@
 # Code (For Windows System):
 
 1.	Ensure that Python is installed on your system. Open a command prompt (preferably as administrator) or terminal and type:
-      python3 –version 
+      **python3 –version** 
       If Python is not installed, you need to install it from python.org  
   
 2.	Check if pip is installed: 
