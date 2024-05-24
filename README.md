@@ -36,11 +36,11 @@
    
        •	If you are using python3 and pip3, the command would be:
      	
-       **pip3 install matplotlib**
+          pip3 install matplotlib
   	
        •	Verify Installation (To ensure that matplotlib is installed correctly), you can run:
      	
-       **python -c "import matplotlib.pyplot as plt; print('matplotlib is installed')"**
+          python -c "import matplotlib.pyplot as plt; print('matplotlib is installed')"
 
 Now run the python code
 
