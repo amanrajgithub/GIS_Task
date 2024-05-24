@@ -13,11 +13,13 @@
   	
       • If pip is not installed, you can install it by downloading get-pip.py and running it:
   	
-          •	Go to https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy them (entire binary code), paste it in the command terminal and run it.
+          •	Go to https://bootstrap.pypa.io/get-pip.py (its a binary code).
+
+  	       •	Copy them (entire binary code), paste it in the command terminal and run it.
    
           •	Now, run the following command in terminal: python get-pip.py
   	
-4.	If Python and pip are installed but not recognized, you need to add them to your system’s PATH:
+5.	If Python and pip are installed but not recognized, you need to add them to your system’s PATH:
    
          •	In the System Properties window, click on the “Environment Variables”.
      	
