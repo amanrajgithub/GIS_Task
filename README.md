@@ -13,7 +13,7 @@
   	
    •	If pip is not installed, you can install it by downloading get-pip.py and running it:
   	
-       •	Download get-pip.py from https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy it in command terminal and run it.
+       •	Go to https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy it in command terminal and run it.
 
        •	Now, run the following command in terminal: python get-pip.py
   	
@@ -30,17 +30,17 @@
   	
 6.	Authenticate with Google Earth Engine. Run the following command in the terminal to authenticate your Google Earth Engine account (a new browser will open Earth Engine window, now log in using the credentials):
   	
-    **earthengine authenticate**
+          earthengine authenticate
 
 7.	Install matplotlib Using pip (Run the following command to install matplotlib)
    
-    •	If you are using python3 and pip3, the command would be:
+       •	If you are using python3 and pip3, the command would be:
+     	
+       **pip3 install matplotlib**
   	
-    **pip3 install matplotlib**
-  	
-    •	Verify Installation (To ensure that matplotlib is installed correctly), you can run:
-  	
-    **python -c "import matplotlib.pyplot as plt; print('matplotlib is installed')"**
+       •	Verify Installation (To ensure that matplotlib is installed correctly), you can run:
+     	
+       **python -c "import matplotlib.pyplot as plt; print('matplotlib is installed')"**
 
 Now run the python code
 
