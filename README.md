@@ -13,7 +13,7 @@
   	
       • If pip is not installed, you can install it by downloading get-pip.py and running it:
   	
-          •	Go to [https://bootstrap.pypa.io/get-pip.py](url) (its a binary code). Copy the entire thing in command terminal and run it.
+          •	Go to https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy them (entire binary code), paste it in the command terminal and run it.
    
           •	Now, run the following command in terminal: python get-pip.py
   	
