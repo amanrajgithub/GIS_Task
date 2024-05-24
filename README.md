@@ -5,7 +5,7 @@
 
   	**python3 –version**
   	
-      If Python is not installed, you need to install it from python.org  
+      If Python is not installed, you need to install it from [python.org](url)  
   
 3.	Check if pip is installed: 
       python -m pip –version
