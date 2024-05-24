@@ -11,7 +11,7 @@
    
          python -m pip –version
   	
-   •	If pip is not installed, you can install it by downloading get-pip.py and running it:
+      • If pip is not installed, you can install it by downloading get-pip.py and running it:
   	
        •	Go to https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy it in command terminal and run it.
 
