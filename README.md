@@ -12,22 +12,24 @@
       **python -m pip –version**
   	
       •	If pip is not installed, you can install it by downloading get-pip.py and running it:
-      •	Download get-pip.py from https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy it in command terminal and run it.
-      •	Now, run the following command: python get-pip.py
   	
-3.	If Python and pip are installed but not recognized, you need to add them to your system’s PATH:
+          •	Download get-pip.py from https://bootstrap.pypa.io/get-pip.py (its a binary code). Copy it in command terminal and run it.
+  	
+          •	Now, run the following command: python get-pip.py
+  	
+4.	If Python and pip are installed but not recognized, you need to add them to your system’s PATH:
       •	In the System Properties window, click on the “Environment Variables”.
       •	In the Environment Variables window, select the Path variable in the “System variables” section and click the “Edit” button.
       •	Click “New” and add the path to your Python installation. For example:
       •	C:\Python39\ (or wherever your Python installation is located)
       •	Click “OK” to close all windows.
   	
-4.	Authenticate with Google Earth Engine. Run the following command in the terminal to authenticate your Google Earth Engine account (a new browser will open     
+5.	Authenticate with Google Earth Engine. Run the following command in the terminal to authenticate your Google Earth Engine account (a new browser will open     
    Earth Engine window, log in using the credentials):
   	
     **earthengine authenticate**
 
-5.	Install matplotlib Using pip (Run the following command to install matplotlib)
+6.	Install matplotlib Using pip (Run the following command to install matplotlib)
    
     •	If you are using python3 and pip3, the command would be:
   	
